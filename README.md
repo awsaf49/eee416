@@ -12,6 +12,9 @@ cloud computing platform.
 
 <div align=center><img src="https://user-images.githubusercontent.com/36858976/187567806-9953bdfd-fa98-4b3e-af04-143da72d6264.jpeg" width=800></div>
 
+## Video Presentation
+https://user-images.githubusercontent.com/36858976/191269593-78d8ea11-c61d-48af-8b87-bf9beddadcf5.mp4
+
 ## Block Diagram
 <img src="https://user-images.githubusercontent.com/36858976/188492125-117f0425-eabc-4f99-9940-4752392e0596.png" width=600>
 
@@ -20,5 +23,9 @@ cloud computing platform.
 
 ## Data Monitoring
 <img src="https://user-images.githubusercontent.com/36858976/188492351-f9c2776c-9ade-493e-996b-99d4f6fca9cd.png" width=600>
+
+
+
+
 
 
